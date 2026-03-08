@@ -6,4 +6,4 @@ I will update it soon.. stay tuned
 
 https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting/data
 
-data source is above, also adding a notebook to copy later on
+data source is above
